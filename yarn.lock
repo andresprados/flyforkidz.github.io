@@ -2201,9 +2201,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flyforkids.github.io@workspace:.":
+"flyforkidz.github.io@workspace:.":
   version: 0.0.0-use.local
-  resolution: "flyforkids.github.io@workspace:."
+  resolution: "flyforkidz.github.io@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.19.0"
     "@fortawesome/fontawesome-svg-core": "npm:^6.7.2"
