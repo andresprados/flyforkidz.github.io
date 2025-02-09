@@ -3,7 +3,9 @@ import Button from "./components/ui/button.jsx";
 import { motion } from "framer-motion";
 import PortfolioPage from "./pages/webdev";
 import PortfolioBBSPage from "./pages/babysitting";
-import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import { BrowserRouter as Route, Routes, Link } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
+
 import './App.css';
 
 const Home = () => {
